@@ -53,6 +53,7 @@ button:hover {
     max-width: 800px;
     padding: 1.5rem;
     border-radius: 1rem;
+    box-shadow: 1px 1px 1px #000;
 }
 
 .faq-headline {
@@ -88,7 +89,17 @@ button:hover {
     padding: 1.5rem, 0;
 }
 
-@media(max-width: 540px){
+.attribution {
+    text-align: center;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+@media(max-width: 560px){
     body {
         background-image: url(assets/images/background-pattern-mobile.svg);
     }
