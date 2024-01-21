@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view of the solution](./assets/images/desktop)
+![desktop view of the solution](assets/images/desktop)
 
 ### Links
 
